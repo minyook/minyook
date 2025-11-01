@@ -37,31 +37,9 @@
 ### 📈 GitHub Stats & More
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminyook&count_bg=%2379C81C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  <br/>
+
   
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=minyook&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=minyook&show_icons=true&theme=light&hide_border=true&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=minyook&show_icons=true&theme=light&hide_border=true&rank_icon=github" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minyook&layout=compact&theme=dark&langs_count=4"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minyook&layout=compact&theme=light&langs_count=4"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyook&layout=compact&theme=light&langs_count=4" />
-  </picture>
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyook&layout=compact&theme=transparent&langs_count=4)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minyook&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 </div>
