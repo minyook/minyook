@@ -4,7 +4,6 @@
 
 <div align="center">
   👋 안녕하세요! 모바일 개발자 임민욱입니다.
-
   > 
 </div>
 
@@ -19,7 +18,5 @@
 | **Tools/Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minyook&show_icons=true&theme=default&rank_icon=github)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyook&layout=compact&theme=default)
 </div>
