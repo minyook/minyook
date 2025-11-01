@@ -8,8 +8,6 @@
   </h2>
 </div>
 
----
-
 ### 🚀 Tech Stacks & Tools
 
 <p align="center">
