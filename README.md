@@ -36,9 +36,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyook&layout=compact&theme=transparent&langs_count=6)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limminyuk0815@gmail.com&layout=compact&theme=transparent&langs_count=6)
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minyook&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limminyuk0815@gmail.com&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 </div>
 
 ---
