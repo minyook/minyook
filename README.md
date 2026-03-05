@@ -20,14 +20,14 @@
   <br/>
   
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <br/>
 
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E94333?style=flat-square&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
@@ -44,6 +44,19 @@
 
 ### 💻 Projects & Research
 
+#### 🛡️ [Smishing Prevention: 지능형 키보드 앱 & 모니터링 커뮤니티]
+* **핵심 내용:** 실시간 스미싱 탐지 기능을 갖춘 **안드로이드 키보드 앱**과 탐지 현황을 관리·공유하는 **커뮤니티 웹** 연동 플랫폼
+* **주요 기능:** * 온디바이스 기반 스미싱 위험 문자 탐지 및 알림
+    * 탐지 데이터 실시간 동기화 및 웹 대시보드 모니터링
+    * 사용자 간 스미싱 사례 공유를 위한 커뮤니티 서비스
+* **핵심 스택:** <p align="left">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </p>
+* **링크:** [GitHub Repository](https://github.com/minyook/smishing-prevention-ai)
 #### 🏃‍♂️ [Human Pose Estimation 및 모바일 최적화 연구]
 * **핵심 내용:** 실시간 관절 추정 모델의 모바일 이식 및 성능 최적화 연구 (연구실 프로젝트)
 * **핵심 스택:** `PyTorch`, `TFLite`, `Android`, `MediaPipe`
@@ -52,7 +65,7 @@
 * **기간:** 2025.06.28 ~ 2025.07.09
 * **핵심 내용:** Gemini AI 기반 지능형 병원 추천 및 실시간 상태 관리 시스템
 * **핵심 스택:** `Kotlin`, `Firebase`, `Android`, `Gemini AI`
-* **링크:** [GitHub Repository](https://github.com/minyook/BreathofLife) | [상세 소개 (Notion)](https://www.notion.so/Mobile-Developer-Portfolio-22dada2216e8807680a9fbdc51f67027?p=22dada2216e88045a747f4e964b89b3d&pm=c)
+* **링크:** [GitHub Repository](https://github.com/minyook/BreathofLife) | [상세 소개 (Notion)](https://www.notion.so/Mobile-Developer-Portfolio-...)
 ---
 
 ### 🏆 Awards & Honors
