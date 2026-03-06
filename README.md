@@ -47,7 +47,7 @@
 * **핵심 내용:** 온디바이스 탐지 기능을 갖춘 키보드 앱과 모니터링 웹이 연동된 모노레포 프로젝트
 * **주요 특징:** 안드로이드 키보드 앱을 통한 실시간 스미싱 탐지 및 Spring Boot 기반 모니터링 시스템 구축
 * **핵심 스택:** `Kotlin`, `Android`, `React`, `Spring Boot`, `Firebase`
-* **링크:** [GitHub Repository 바로가기](https://github.com/minyook/smishing-prevention-ai)
+* **링크:** [GitHub Repository 바로가기](https://github.com/Queen-aespa/smishing-prevention-ai)
 
 #### 🏃‍♂️ [Human Pose Estimation 및 모바일 최적화 연구]
 * **핵심 내용:** 실시간 관절 추정 모델의 모바일 이식 및 성능 최적화 연구 (연구실 프로젝트)
@@ -56,6 +56,7 @@
 #### 🏥 [실시간 응급실 현황 공유 및 최적 병원 추천 플랫폼]
 * **핵심 내용:** Gemini AI 기반 지능형 병원 추천 및 실시간 상태 관리 시스템
 * **핵심 스택:** `Kotlin`, `Firebase`, `Android`, `Gemini AI`
+* **링크:** [GitHub Repository 바로가기](https://github.com/leesunkwon/BreathofLife)
 
 ---
 
