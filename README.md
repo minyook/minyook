@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2 style="font-family: 'Comic Sans MS', 'cursive', sans-serif; font-size: 2.5em; color: #333333;">
-    👋 안녕하세요! 딥러닝 연구하는 모바일 개발자 임민욱입니다.
+    👋 안녕하세요! 딥러닝 연구하고있는 개발자 임민욱입니다.
   </h2>
   <p><b>Computer Vision Lab Researcher | Mobile Developer</b></p>
   <p>현재 영상 딥러닝 연구실에서 <b>Human Pose Estimation</b> 및 <b>Action Recognition</b>을 연구하고 있습니다.</p>
