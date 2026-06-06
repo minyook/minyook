@@ -49,10 +49,6 @@
 * **핵심 스택:** `Kotlin`, `Android`, `React`, `Spring Boot`, `Firebase`
 * **링크:** [GitHub Repository 바로가기](https://github.com/Queen-aespa/smishing-prevention-ai)
 
-#### 🏃‍♂️ [Human Pose Estimation 및 모바일 최적화 연구]
-* **핵심 내용:** 실시간 관절 추정 모델의 모바일 이식 및 성능 최적화 연구 (연구실 프로젝트)
-* **핵심 스택:** `PyTorch`, `TFLite`, `Android`, `MediaPipe`
-
 #### 🏥 [실시간 응급실 현황 공유 및 최적 병원 추천 플랫폼]
 * **핵심 내용:** Gemini AI 기반 지능형 병원 추천 및 실시간 상태 관리 시스템
 * **핵심 스택:** `Kotlin`, `Firebase`, `Android`, `Gemini AI`
